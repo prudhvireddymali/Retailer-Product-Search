@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(53, 189, 234);
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 450px;
+  }
+ h2 {
+    color:brown;
+    margin-left: 600px;
+
+ }
+ form {
+    background:yellowgreen;
+    font-family: 'Merriweather', sans-serif;
+    padding: 2px;
+    text-align: center;
+    max-width: 500px;
+    margin-left:450px;
+  }
+  #Pname {
+    color: navy;
+    width: 380px;
+    margin-left: -90px;
+
+  }
+  #Wcity {
+    color: navy;
+    width: 380px;
+    margin-left: -90px;
+
+  }
+  #Minquantity{
+    color: navy;
+    margin-left: -300px;
+  }
+  #Maxquantity{
+    color: navy;
+  margin-left: -20px;
+  margin-top: -40px;
+   position:absolute;
+
+  } 
+  #Minprice{
+    color: navy;
+  margin-left: -300px;
+
+  } 
+  #Maxprice{
+    color: navy;
+  margin-left: -20px;
+  margin-top: -20px;
+   position:absolute;
+   } 
+.clear {
+    background-color: aquamarine;
+    width: 120px;
+    height: 40px;
+    margin-left: -50px;
+    margin-top: -40px;
+}
+.submit {
+    background-color: rgb(127, 255, 133);
+    width: 120px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: -40px;
+}
+.Perform {
+    background-color: rgb(136, 127, 255);
+    width: 200px;
+    height: 40px;
+    margin-left: 180px;
+    margin-top: 400px;
